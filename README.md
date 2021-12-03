@@ -1,6 +1,6 @@
 # Hey you! 🖖🏾
 
-My name is Yuri and I'm a 5th phase Robotics Engineer student at Catarinense Federal Institute. I'm always looking for new stuff to learn, aiming to be a good front-end professional dev :computer:
+My name is Yuri and I'm a 5th phase Robotics Engineer student at Catarinense Federal Institute. I'm always looking for new ways to enhance my knowledge and skill set in order for me to become a professional Front-End Developer 💻
 
 - 🤔 &nbsp; Always exploring new techonologies and developing software solutions.
 - 🎓 &nbsp; Studying Robotic Engineer at <a href="https://luzerna.ifc.edu.br">Catarinense Federal Institute</a>.
