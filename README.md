@@ -4,7 +4,7 @@ My name is Yuri and I'm a 5th phase Robotics Engineer student at Catarinense Fed
 
 - 🤔 &nbsp; Always exploring new techonologies and developing software solutions.
 - 🎓 &nbsp; Studying Robotic Engineer at <a href="https://luzerna.ifc.edu.br">Catarinense Federal Institute</a>.
-- 💼 &nbsp; Internship at <a href="https://www.odeme.com.br">Odeme Dental Research</a>.
+- 💼 &nbsp; Working as an English teacher at Scalli Idiomas.
 - 🌱 &nbsp; Learning more about **HTML, CSS, JS**.
 
 ---
