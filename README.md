@@ -1,11 +1,11 @@
 # Hey you! 🖖🏾
 
-My name is Yuri and I'm on the 8th semester of Control and Automation Engineer at Catarinense Federal Institute. I'm always looking for new ways to enhance my knowledge and skill set in order for me to become a professional Front-End Developer 💻
+My name is Yuri and I'm on the 8th semester of Control and Automation Engineer at Catarinense Federal Institute. I'm always looking for new ways to enhance my knowledge and skill set in order for me to become the best professional I can be. 🦾⚙️💻🤖
 
 - 🤔 &nbsp; Always exploring new techonologies and developing software solutions.
 - 🎓 &nbsp; Studying Control and Automation Engineer at <a href="https://luzerna.ifc.edu.br">Catarinense Federal Institute</a>.
 - 💼 &nbsp; Working as an English teacher at Scalli Idiomas.
-- 🌱 &nbsp; Learning more about **HTML, CSS, JS**.
+- 🌱 &nbsp; Learning more about **C, Python**.
 
 ---
 # My Skills 📚🧠
