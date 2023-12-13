@@ -40,10 +40,10 @@ My name is Yuri and I'm on the 8th semester of Control and Automation Engineer a
 ---
 # Hit me up! 📱
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/yu.araujo/) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gordo0904)](https://twitter.com/gordo0904)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/yuri.araujo1a3/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/yuriovski1)](https://twitter.com/yuriovski1)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5521988574863)](https://wa.me/5521988574863)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/yuriDevF)](https://t.me/yuriDevF)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/yuriArauj)](https://t.me/yuriArauj)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yuri.a2alves@gmail.com)](mailto:yuri.a2alves@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/yuri.araujo.3386/)](https://www.facebook.com/yuri.araujo.3386/)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/654837134728888320/)](https://discordapp.com/users/654837134728888320/)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/yur10vski/)](https://discordapp.com/users/yur10vski/)
